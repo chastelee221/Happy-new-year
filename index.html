@@ -1,43 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Happy New Year 🎉</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>CBT Login</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-  <div class="card">
-    <h1>🎉 Happy New Year! 🎉</h1>
-    <h2 id="greeting">Welcome!</h2>
 
-    <p class="intro">
-      Hi, I'm <strong>Moses Daniel Christopher</strong>, a junior prompt enginner building clean, simple, and 
-      effective websites.
-    </p>
+<div class="container">
 
-    <div class="divider">✨ ✨ ✨</div>
+  <h1>CBT Practice</h1>
 
-    <p>
-      I create small websites, landing pages, and simple designs
-      for individuals and small businesses looking to grow online.
-    </p>
+  <input type="text" id="studentName" placeholder="Enter your name">
 
-    <div class="buttons">
-      <a class="btn whatsapp" href="https://wa.me/2348123456789" target="_blank">
-        💬 WhatsApp Me
-      </a>
+  <button onclick="startQuiz()">Start Quiz</button>
 
-      <a class="btn email" href="mailto:chastelee2020@gmail.com">
-        📧 Email Me
-      </a>
-    </div>
+</div>
 
-    <p class="footer">
-      Let’s make something great this year 🚀
-    </p>
-  </div>
+<script>
+function startQuiz() {
 
-  <script src="script.js"></script>
+  let name = document.getElementById("studentName").value;
+
+  if(name.trim() === "") {
+    alert("Enter your name");
+    return;
+  }
+
+  localStorage.setItem("studentName", name);
+
+  window.location.href = "quiz.html";
+}
+</script>
+
 </body>
 </html>
