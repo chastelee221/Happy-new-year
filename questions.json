@@ -1,0 +1,102 @@
+[
+  {
+    "question": "The primary site of gas exchange in the lungs is:",
+    "options": ["Trachea", "Bronchi", "Alveoli", "Bronchioles"],
+    "answer": "Alveoli"
+  },
+  {
+    "question": "The normal serum sodium level is:",
+    "options": ["100–120 mmol/L", "135–145 mmol/L", "150–160 mmol/L", "120–130 mmol/L"],
+    "answer": "135–145 mmol/L"
+  },
+  {
+    "question": "The hormone responsible for milk ejection is:",
+    "options": ["Prolactin", "Oxytocin", "Estrogen", "Progesterone"],
+    "answer": "Oxytocin"
+  },
+  {
+    "question": "The normal adult respiratory rate is:",
+    "options": ["8–10", "10–14", "12–20", "22–30"],
+    "answer": "12–20"
+  },
+  {
+    "question": "The functional unit of the kidney is:",
+    "options": ["Neuron", "Nephron", "Alveoli", "Glomerulus"],
+    "answer": "Nephron"
+  },
+  {
+    "question": "The valve between left atrium and left ventricle is:",
+    "options": ["Tricuspid", "Mitral", "Aortic", "Pulmonary"],
+    "answer": "Mitral"
+  },
+  {
+    "question": "The largest artery in the body is:",
+    "options": ["Carotid", "Pulmonary artery", "Aorta", "Femoral artery"],
+    "answer": "Aorta"
+  },
+  {
+    "question": "Insulin is produced by:",
+    "options": ["Liver", "Pancreas", "Kidney", "Spleen"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "The deficiency of Vitamin C causes:",
+    "options": ["Rickets", "Scurvy", "Beriberi", "Pellagra"],
+    "answer": "Scurvy"
+  },
+  {
+    "question": "The blood pH is normally:",
+    "options": ["6.8", "7.0", "7.35–7.45", "8.0"],
+    "answer": "7.35–7.45"
+  },
+  {
+    "question": "The white blood cells responsible for antibody production are:",
+    "options": ["Neutrophils", "Basophils", "Lymphocytes", "Eosinophils"],
+    "answer": "Lymphocytes"
+  },
+  {
+    "question": "The primary organ for detoxification is:",
+    "options": ["Kidney", "Liver", "Lung", "Heart"],
+    "answer": "Liver"
+  },
+  {
+    "question": "The structure that prevents food entering the trachea is:",
+    "options": ["Tongue", "Epiglottis", "Uvula", "Pharynx"],
+    "answer": "Epiglottis"
+  },
+  {
+    "question": "The pacemaker of the heart is:",
+    "options": ["AV node", "Bundle of His", "SA node", "Purkinje fibers"],
+    "answer": "SA node"
+  },
+  {
+    "question": "Normal fasting blood glucose is:",
+    "options": ["30–50 mg/dl", "70–110 mg/dl", "120–160 mg/dl", "160–200 mg/dl"],
+    "answer": "70–110 mg/dl"
+  },
+  {
+    "question": "The hormone that regulates calcium level is:",
+    "options": ["Insulin", "Parathyroid hormone", "Adrenaline", "Thyroxine"],
+    "answer": "Parathyroid hormone"
+  },
+  {
+    "question": "The site of protein digestion begins in:",
+    "options": ["Mouth", "Stomach", "Small intestine", "Large intestine"],
+    "answer": "Stomach"
+  },
+  {
+    "question": "The largest organ in the body is:",
+    "options": ["Liver", "Skin", "Brain", "Lung"],
+    "answer": "Skin"
+  },
+  {
+    "question": "The major function of platelets is:",
+    "options": ["Oxygen transport", "Immunity", "Blood clotting", "Hormone transport"],
+    "answer": "Blood clotting"
+  },
+  {
+    "question": "The normal adult pulse rate is:",
+    "options": ["40–50 bpm", "60–100 bpm", "110–130 bpm", "130–150 bpm"],
+    "answer": "60–100 bpm"
+  }
+]
